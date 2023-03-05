@@ -6,3 +6,5 @@ User can signup/login as Patient to add them self as patient, apply for fund app
 
 Data Structures like Linked list (as all patients, all areas) and Queue (as patients application, first in first out) are used.
 Algorithms like sorting (patients by name) and searching (patients by name) are used.
+
+Data of patients, applications etc. are stored in file system
